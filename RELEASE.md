@@ -17,3 +17,7 @@ git clean -fdx   # nuke the  `dist` and `node_modules`
 cd js
 npm install
 npm publish
+
+- To release a new version of ipysankeywidget on Anaconda.org:
+
+Follow the instructions for "Building a simple package with conda skeleton pypi" [here](https://conda.io/docs/user-guide/tutorials/build-pkgs-skeleton.html)
